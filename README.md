@@ -92,4 +92,3 @@ This runs the anonymous pipe demo, starts admissions, submits two manual patient
 - You can also choose a count for extra testing, for example `./scripts/stress_test.sh 30`.
 
 No other bonus features are included.
-"# OS-Lab-Hospital-Triage-Project" 
